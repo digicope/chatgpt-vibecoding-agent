@@ -1,7 +1,6 @@
 ###  [충청 ICT 이노베이션 스퀘어]
 ##  ChatGPT와 바이브코딩을 활용한 AI 에이전트 개발 과정 (2025.09.22~11.24)
 <br>
-### 02_OpenCV 기초
 
 ## git 주소 :   github.com/digicope/chatgpt-vibecoding-agent
 <br>
